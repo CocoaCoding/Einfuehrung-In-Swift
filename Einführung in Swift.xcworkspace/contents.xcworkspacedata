@@ -5,6 +5,18 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
+      location = "group:Kapitel 3.4 Arrays in Dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 3.3 Dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 3.1 Arrays.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.6 Zeichenketten.playground">
+   </FileRef>
+   <FileRef
       location = "group:Kapitel 2.5 NSNumber.playground">
    </FileRef>
    <FileRef
