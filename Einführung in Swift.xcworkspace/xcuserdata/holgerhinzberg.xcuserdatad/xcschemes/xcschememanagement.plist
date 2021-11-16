@@ -46,6 +46,69 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>Kapitel 2.1 Zeichenketten (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>Kapitel 2.1 Zeichenketten (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Kapitel 2.1 Zeichenketten (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>Kapitel 2.4 Zeichenketten konvertieren (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>Kapitel 2.4 Zeichenketten konvertieren (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>Kapitel 2.4 Zeichenketten konvertieren (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>Kapitel 2.5 NSNumber (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>Kapitel 2.5 NSNumber (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>Kapitel 2.5 NSNumber (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
 		<key>MyPlayground (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>

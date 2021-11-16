@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.5 NSNumber.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.4 Zeichenketten konvertieren.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.1 Zeichenketten.playground">
+   </FileRef>
+   <FileRef
       location = "group:Kapitel 1.7 Optionals.playground">
    </FileRef>
    <FileRef
