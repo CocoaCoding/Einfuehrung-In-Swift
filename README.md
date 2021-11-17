@@ -23,4 +23,10 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 - Kapitel 4.7 Schleifen mit Fallunterscheidungen
 - Kapitel 4.8 Fallunterscheidungen mit Diagram
 - Kapitel 4.9 Gültigkeitsbereiche
+- Kapitel 5.1 Funktionen
+- Kapitel 5.3 Funktionen mit Rückgabewert
+- Kapitel 5.5 Funktionen (Varadische Parameter )
+- Kapitel 5.6 Funktionen mit Standartwerten
+- Kapitel 5.7 Parameter sind unveränderlich
+- Kapitel 5.8 Type Alias
 
