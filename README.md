@@ -3,7 +3,7 @@
 
 Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 
-###Inhalt###
+**Inhalt**
 
 - Kapitel 1.1 Datentypen
 - Kapitel 1.4 Werte runden
@@ -29,4 +29,11 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 - Kapitel 5.6 Funktionen mit Standartwerten
 - Kapitel 5.7 Parameter sind unveränderlich
 - Kapitel 5.8 Type Alias
+- Kapitel 6.1 Closures sind Funktionen
+- Kapitel 6.2 Closures als Parameter
+- Kapitel 6.3 Arrays sortieren mit Closures
+- Kapitel 6.4 Variablen einfangen
+- Kapitel 6.5 GCD mit dispatch_after
+- Kapitel 6.6 Parallele Verarbeitung
+- Kapitel 6.7 Async Download
 

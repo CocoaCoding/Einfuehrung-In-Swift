@@ -49,28 +49,6 @@
    <Group
       location = "container:"
       name = "Kapitel 4">
-      <Group
-         location = "container:"
-         name = "Kapitel 5">
-         <FileRef
-            location = "group:Kapitel 5.8 Type Alias.playground">
-         </FileRef>
-         <FileRef
-            location = "group:Kapitel 5.7 Parameter sind unvera&#x308;nderlich.playground">
-         </FileRef>
-         <FileRef
-            location = "group:Kapitel 5.6 Funktionen mit Standartwerten.playground">
-         </FileRef>
-         <FileRef
-            location = "group:Kapitel 5.5 Funktionen (Varadische Parameter ).playground">
-         </FileRef>
-         <FileRef
-            location = "group:Kapitel 5.3 Funktionen mit Ru&#x308;ckgabewert.playground">
-         </FileRef>
-         <FileRef
-            location = "group:Kapitel 5.1 Funktionen.playground">
-         </FileRef>
-      </Group>
       <FileRef
          location = "group:Kapitel 4.1 Fallunterscheidungen.playground">
       </FileRef>
@@ -91,6 +69,53 @@
       </FileRef>
       <FileRef
          location = "group:Kapitel 4.9 Gu&#x308;ltigkeitsbereiche.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 5">
+      <FileRef
+         location = "group:Kapitel 5.1 Funktionen.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 5.3 Funktionen mit Ru&#x308;ckgabewert.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 5.5 Funktionen (Varadische Parameter ).playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 5.6 Funktionen mit Standartwerten.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 5.7 Parameter sind unvera&#x308;nderlich.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 5.8 Type Alias.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 6">
+      <FileRef
+         location = "group:Kapitel 6.1 Closures sind Funktionen.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 6.2 Closures als Parameter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 6.3 Arrays sortieren mit Closures.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 6.4 Variablen einfangen.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 6.5 GCD mit dispatch_after.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 6.6 Parallele Verarbeitung.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 6.7 Async Download.playground">
       </FileRef>
    </Group>
 </Workspace>
