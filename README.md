@@ -15,4 +15,12 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 - Kapitel 3.1 Arrays
 - Kapitel 3.3 Dictionaries
 - Kapitel 3.4 Arrays in Dictionaries
+- Kapitel 4.1 Fallunterscheidungen
+- Kapitel 4.2 switch case
+- Kapitel 4.3 Schleifen
+- Kapitel 4.4 Schleifen und Arrays
+- Kapitel 4.6 Die while-Schleife
+- Kapitel 4.7 Schleifen mit Fallunterscheidungen
+- Kapitel 4.8 Fallunterscheidungen mit Diagram
+- Kapitel 4.9 Gültigkeitsbereiche
 

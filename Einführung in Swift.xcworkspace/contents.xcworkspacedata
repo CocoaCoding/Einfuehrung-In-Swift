@@ -5,33 +5,54 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
-      location = "group:Kapitel 3.4 Arrays in Dictionaries.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 3.3 Dictionaries.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 3.1 Arrays.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 2.6 Zeichenketten.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 2.5 NSNumber.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 2.4 Zeichenketten konvertieren.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 2.1 Zeichenketten.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Kapitel 1.7 Optionals.playground">
+      location = "group:/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/Projekte zu eigenen Bu&#x308;chern/Einfu&#x308;hrung in Swift/Kapitel 1.1 Datentypen.playground">
    </FileRef>
    <FileRef
       location = "group:Kapitel 1.4 Werte runden.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/Projekte zu eigenen Bu&#x308;chern/Einfu&#x308;hrung in Swift/Kapitel 1.1 Datentypen.playground">
+      location = "group:Kapitel 1.7 Optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.1 Zeichenketten.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.4 Zeichenketten konvertieren.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.5 NSNumber.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 2.6 Zeichenketten.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 3.1 Arrays.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 3.3 Dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 3.4 Arrays in Dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.1 Fallunterscheidungen.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.2 switch case.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.3 Schleifen.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.6 Die while-Schleife.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.7 Schleifen mit Fallunterscheidungen.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.8 Fallunterscheidungen mit Diagram.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Kapitel 4.9 Gu&#x308;ltigkeitsbereiche.playground">
    </FileRef>
 </Workspace>
