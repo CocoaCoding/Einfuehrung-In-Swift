@@ -52,3 +52,6 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 - Kapitel 6.6 Parallele Verarbeitung
 - Kapitel 6.7 Async Download
 
+**Kapitel 7 - Klassen und Objekte**
+
+**Kapitel 8 - Methoden**

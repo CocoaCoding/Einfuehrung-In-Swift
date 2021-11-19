@@ -118,4 +118,18 @@
          location = "group:Kapitel 6.7 Async Download.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 7">
+      <FileRef
+         location = "group:/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/Projekte zu eigenen Bu&#x308;chern/Einfu&#x308;hrung in Swift/Kapitel 7 Klassen und Objekte.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 8">
+      <FileRef
+         location = "group:Kapitel 8 Methoden .playground">
+      </FileRef>
+   </Group>
 </Workspace>
