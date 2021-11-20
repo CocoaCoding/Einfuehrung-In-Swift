@@ -132,4 +132,18 @@
          location = "group:Kapitel 8 Methoden .playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 9">
+      <FileRef
+         location = "group:Kapitel 9 Vererbung.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 10">
+      <FileRef
+         location = "group:/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/Projekte zu eigenen Bu&#x308;chern/Einfu&#x308;hrung in Swift/Kapitel 10 Protokolle.playground">
+      </FileRef>
+   </Group>
 </Workspace>

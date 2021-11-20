@@ -55,3 +55,7 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 **Kapitel 7 - Klassen und Objekte**
 
 **Kapitel 8 - Methoden**
+
+**Kapitel 9 - Vererbung**
+
+**Kapitel 10 - Protokolle**
