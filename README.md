@@ -70,4 +70,17 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 - Kapitel 12.1 guard
 - Kapitel 12.2 Fehlerbehandlung
 
+**Kapitel 13 - Speicherverwaltung**
 
+- Kapitel 13.2 Schwache Referenzen
+- Kapitel 13.3 Zirkelverweise
+
+**Kapitel 14 - Lotto**
+
+**Anhang**
+
+- Swift Lexikon 1
+- Swift Lexikon 2
+- Swift Lexikon 3
+- Swift Lexikon 4
+- Referenzkarte

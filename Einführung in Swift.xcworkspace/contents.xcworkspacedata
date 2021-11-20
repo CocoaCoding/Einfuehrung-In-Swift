@@ -166,4 +166,40 @@
          location = "group:Kapitel 12.2 Fehlerbehandlung.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 13">
+      <FileRef
+         location = "group:Kapitel 13.2 Schwache Referenzen.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 13.3 Zirkelverweise.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 14">
+      <FileRef
+         location = "group:Kapitel 14 Lotto.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Anhang">
+      <FileRef
+         location = "group:Swift Lexikon Teil 1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Swift Lexikon Teil 2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Swift Lexikon Teil 3.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Swift Lexikon Teil 4.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Referenzkarte.playground">
+      </FileRef>
+   </Group>
 </Workspace>
