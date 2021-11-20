@@ -146,4 +146,24 @@
          location = "group:/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/Projekte zu eigenen Bu&#x308;chern/Einfu&#x308;hrung in Swift/Kapitel 10 Protokolle.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 11">
+      <FileRef
+         location = "group:Kapitel 11.1 Strukturen.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 11.3 Enumeration.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Kapitel 12">
+      <FileRef
+         location = "group:Kapitel 12.1 guard.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Kapitel 12.2 Fehlerbehandlung.playground">
+      </FileRef>
+   </Group>
 </Workspace>

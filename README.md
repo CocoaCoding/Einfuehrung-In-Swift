@@ -59,3 +59,15 @@ Aktualisiert für Swift Version 5.5.1 / Xcode 13.1 / Novemver 2021
 **Kapitel 9 - Vererbung**
 
 **Kapitel 10 - Protokolle**
+
+**Kapitel 11 - Strukturen und Enumerationen**
+
+- Kapitel 11.1 Strukturen
+- Kapitel 11.3 Enumeration
+
+**Kapitel 12 - Sicherer Programmcode**
+
+- Kapitel 12.1 guard
+- Kapitel 12.2 Fehlerbehandlung
+
+
